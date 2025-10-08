@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    font-size: 80px;
+    font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.paragrafos{
+    background-color: aquamarine;
+    color: yellow;
+}
+
+#idParagrafo{
+    background-color: blueviolet;
+    color: blue;
+}
