@@ -15,3 +15,16 @@ h1{
     background-color: blueviolet;
     color: blue;
 }
+
+
+/* Comportamento quando aberto em telas menores */
+@media only screem and (max-width: 700px) {
+    #divTextoAboutMe{
+        display: flex;
+        
+    }
+
+    #yTVideo{
+        width: 30px;
+    }
+}
